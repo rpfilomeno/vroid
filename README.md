@@ -1,7 +1,7 @@
 VRoid Models
 ============
 
-Assorted models created using VRoid.
+Assorted models created using [VRoid](https://vroid.com/en/studio).
 
 Sample Renders
 --------------

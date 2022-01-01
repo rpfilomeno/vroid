@@ -1,0 +1,14 @@
+[Info]
+Version = 3
+
+[Object]
+Acs1 = UserFile\Accessory\Falling Hearts\Falling hearts.x
+Pmd2 = C:\Users\Roger\Documents\Github\vroid\exports\PmxExport\tapsi\tapsi.pmx
+Pmd3 = C:\Users\Roger\Documents\Github\vroid\exports\PmxExport\lomi2\lomi2.pmx
+
+[Effect]
+Default = none
+Acs1 = UserFile\Accessory\Falling Hearts\Falling hearts.fx
+Pmd2 = C:\Users\Roger\Documents\Github\vroid\exports\PmxExport\tapsi\tapsi.fx
+Pmd3 = C:\Users\Roger\Documents\Github\vroid\exports\PmxExport\lomi2\lomi2.fx
+

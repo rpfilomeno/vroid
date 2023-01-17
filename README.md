@@ -15,3 +15,11 @@ Sample Renders
 2. Lomi of TPS
 
 ![Lomi Xmas](https://github.com/rpfilomeno/vroid/blob/master/renders/lomi-xmas.png?raw=true)
+
+
+Resources
+----------
+
+* MMD Stages by Hazi: https://bowlroll.net/user/18397
+* Free MMD Motions: https://www.youtube.com/watch?v=W1JRblysCPg&list=PLQb4XbwXBITChb81qHEZZE3AQk9Linp6G&index=1
+* Premium MMD Motion: https://ladiealien.gumroad.com/

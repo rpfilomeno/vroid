@@ -1,0 +1,21 @@
+{
+    "material_name": "01_Tops",
+    "abb_name": "左袖1",
+    "parent_bone_name": "左ひじ",
+    "group": "3",
+    "direction": "下",
+    "primitive": "単一揺れ物",
+    "exist_physics_clear": "再利用",
+    "target_bones": [
+        [
+            "装飾_03-01_Sec_L_LowerSleeve_01",
+            "装飾_03-02_Sec_L_LowerSleeve_end_01"
+        ]
+    ],
+    "back_extend_material_names": [
+        "01_Tops_エッジ",
+        "01_Tops_裏"
+    ],
+    "rigidbody_root_thick": 0.5,
+    "rigidbody_end_thick": 0.5
+}
